@@ -1,4 +1,3 @@
-```markdown
 # FranzAi-Plumbing — Session Review & Changelog
 
 ## What We Achieved
@@ -507,4 +506,3 @@ Always wait for the user to provide the file or log data. Do not assume or gener
 ---
 
 *Generated after a full review session covering all 6 components of FranzAi-Plumbing across 5 live execution runs. Four files were modified, one was verified clean, and runtime logs were analyzed to discover race conditions, stalls, and concurrency issues invisible in static review.*
-```
